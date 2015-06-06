@@ -38,8 +38,8 @@ dependencies {
 
     compile 'org.androidannotations:androidannotations-api:3.3.1'
 
-    compile 'com.netimen:android-modules-api:1.2.1'
-    apt 'com.netimen:android-modules-apt:1.2.1' // we replace Android Annotations processor with Android Modules processor. DON'T use them simultaneously
+    compile 'com.netimen:android-modules-api:1.2.6'
+    apt 'com.netimen:android-modules-apt:1.2.6' // we replace Android Annotations processor with Android Modules processor. DON'T use them simultaneously
 
     androidTestCompile 'com.android.support.test.espresso:espresso-core:2.0'
     androidTestCompile 'com.android.support.test:testing-support-lib:0.1'
